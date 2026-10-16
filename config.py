@@ -1,1 +1,1 @@
-APP_NAME = "Student Management"
+APP_NAME = "Campus Student Portal"
